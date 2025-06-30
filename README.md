@@ -1,11 +1,8 @@
-<h1 align="center">Hi 😇, I'm Sana Singh</h1>
-<h3 align="center">A aspiring full stack developer from India</h3>
+# **👋 Hi, I'm Sana Singh**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanasingh31&label=Profile%20views&color=0e75b6&style=flat" alt="sanasingh31" /> </p>
-
-- 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **WebDev projects**
+🎓 B.Tech in Information Technology | Manipal University Jaipur  
+💡 Passionate about AI, Machine Learning, and Web Development  
+🚀 Building intelligent systems that solve real-world problems
 
 - - 📫 How to reach me **sanasingh3102@gmail.com**
 
